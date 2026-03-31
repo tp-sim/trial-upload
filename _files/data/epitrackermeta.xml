@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<epitracker version="">
+  <prfs url="" cgroupid="" duserid="" contenttypeid="0">
+    <dcomments><![CDATA[]]></dcomments>
+  </prfs>
+  <contents>
+    <content contenttypeid="1" contentid="19_3_2026_DDCCBAABBE_sJbxAou" passscore="" sm="1" gm="1" tm="1" dm="0" date="3/19/2026" presentationid="" efxid="Healthcare">
+      <filename><![CDATA[Healthcare.htm]]></filename>
+      <title><![CDATA[Healthcare Process Flow: Billing & Insurance Inquiry (Patient Support)]]></title>
+      <prss>
+        <prs type="1" resloc="p77503" bpt="58">
+          <prsname>Healthcare</prsname>
+          <ss>
+            <s s1="K75" s2="3" s3="1" s4="0"><![CDATA[]]></s>
+            <s s1="K11" s2="1" s3="2" s4="0"><![CDATA[Click on the phone icon when a call comes in.]]></s>
+            <s s1="K13" s2="3" s3="3" s4="0"><![CDATA[]]></s>
+            <s s1="K14" s2="1" s3="4" s4="0"><![CDATA[Once the reason for the call has been determined, click the Patient Profile button.]]></s>
+            <s s1="K18" s2="1" s3="5" s4="0"><![CDATA[And in the Interaction Notes box, enter “Patient calling about billing inquiry; unclear charge.”]]></s>
+            <s s1="K17" s2="1" s3="6" s4="0"><![CDATA[Then press Ctrl+N to Save your initial notes.]]></s>
+            <s s1="K21" s2="3" s3="7" s4="0"><![CDATA[]]></s>
+            <s s1="K23" s2="1" s3="8" s4="0"><![CDATA[Enter "Unexpected charge; patient questions insurance coverage.” in the Interaction Notes box.]]></s>
+            <s s1="K22" s2="1" s3="9" s4="0"><![CDATA[And press Ctrl+N to Save the additional notes.]]></s>
+            <s s1="K71" s2="1" s3="10" s4="0"><![CDATA[Click the Compliance Checklist reminder.]]></s>
+            <s s1="K72" s2="2" s3="11" s4="0"><![CDATA[Review the checklist to ensure all aspects are covered.]]></s>
+            <s s1="K73" s2="1" s3="12" s4="0"><![CDATA[Then press Ctrl+X to exit the pop-up.]]></s>
+            <s s1="K26" s2="3" s3="13" s4="0"><![CDATA[]]></s>
+            <s s1="K27" s2="2" s3="14" s4="0"><![CDATA[Confirm the verification details provided in the Patient Profile & Insurance Details section.]]></s>
+            <s s1="K25" s2="1" s3="15" s4="0"><![CDATA[Then click the Verify button.]]></s>
+            <s s1="K28" s2="2" s3="16" s4="0"><![CDATA[A system generated message saying “Patient Verified” will appear.]]></s>
+            <s s1="K24" s2="1" s3="17" s4="0"><![CDATA[Next, click the Billing Review button or press Ctrl+B.]]></s>
+            <s s1="K32" s2="3" s3="18" s4="0"><![CDATA[]]></s>
+            <s s1="K33" s2="1" s3="19" s4="0"><![CDATA[Locate and double-click the service date as specified by the caller to expand the Line Item details.]]></s>
+            <s s1="K64" s2="1" s3="20" s4="0"><![CDATA[Check the details of the procedure, then in the Interaction Notes enter "Charge located; insurance coverage reviewed."]]></s>
+            <s s1="K63" s2="1" s3="21" s4="0"><![CDATA[Then to save your notes, press Ctrl+N.]]></s>
+            <s s1="K34" s2="3" s3="22" s4="0"><![CDATA[]]></s>
+            <s s1="K39" s2="1" s3="23" s4="0"><![CDATA[Click the Eligibility Check button or press Ctrl+E to verify insurance coverage.]]></s>
+            <s s1="K37" s2="2" s3="24" s4="0"><![CDATA[A System result will pop-up showing the message Service covered; patient responsibility appears incorrect.]]></s>
+            <s s1="K40" s2="1" s3="25" s4="0"><![CDATA[In the Interaction Notes box, enter “Coverage confirmed; discrepancy detected.”]]></s>
+            <s s1="K35" s2="1" s3="26" s4="0"><![CDATA[Then press Ctrl+N to save your notes.]]></s>
+            <s s1="K42" s2="3" s3="27" s4="0"><![CDATA[]]></s>
+            <s s1="K44" s2="1" s3="28" s4="0"><![CDATA[Click the Create Ticket button or press Ctrl+T to initiate a ticket for the Billing review findings.]]></s>
+            <s s1="K45" s2="1" s3="29" s4="0"><![CDATA[Select Insurance covered.]]></s>
+            <s s1="K46" s2="1" s3="30" s4="0"><![CDATA[And from the dropdown results, select Incorrect patient charge.]]></s>
+            <s s1="K49" s2="1" s3="31" s4="0"><![CDATA[Then click Submit.]]></s>
+            <s s1="K43" s2="2" s3="32" s4="0"><![CDATA[A system-generated confirmation with a Reference ID will appear, indicating that the ticket has been successfully submitted.]]></s>
+            <s s1="K55" s2="1" s3="33" s4="0"><![CDATA[Enter "Billing review ticket created." in the Interaction Notes box.]]></s>
+            <s s1="K54" s2="1" s3="34" s4="0"><![CDATA[Then press Ctrl+N to save your notes.]]></s>
+            <s s1="K48" s2="3" s3="35" s4="0"><![CDATA[]]></s>
+            <s s1="K52" s2="1" s3="36" s4="0"><![CDATA[Click the Send Email button.]]></s>
+            <s s1="K50" s2="1" s3="37" s4="0"><![CDATA[Review your email; once everything is in order, click Send.]]></s>
+            <s s1="K57" s2="3" s3="38" s4="0"><![CDATA[]]></s>
+            <s s1="K60" s2="2" s3="39" s4="0"><![CDATA[Document everything that transpired during the call.]]></s>
+            <s s1="K68" s2="1" s3="40" s4="0"><![CDATA[Finally, press Ctrl+S to save the case and end the call.]]></s>
+            <s s1="K77" s2="5" s3="41" s4="0"><![CDATA[The patient says: “I don’t think I should be billed for this service. My doctor said it was covered.”
+You are viewing the line item details and preparing to respond.
+What is the BEST next step?]]><asm id="K77" qy="1" ct="Clarifying the Charge" txt="The patient says: “I don’t think I should be billed for this service. My doctor said it was covered.”&#xD;&#xA;You are viewing the line item details and preparing to respond.&#xD;&#xA;What is the BEST next step?" ctxt="Good Job!" wtxt="Not quite. The correct answer is &quot;Run an insurance eligibility check and explain what you are doing.&quot;"><chs><ch id="1" result="0" txt="Tell the patient that billing mistakes happen often" /><ch id="2" result="1" txt="Run an insurance eligibility check and explain what you are doing" /><ch id="3" result="0" txt="Immediately submit a billing dispute" /><ch id="4" result="0" txt="Ask the patient to call back with more information" /></chs></asm></s>
+          </ss>
+        </prs>
+      </prss>
+    </content>
+  </contents>
+</epitracker>
